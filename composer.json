@@ -1,0 +1,10 @@
+{
+    "name": "xavieraurey/reglex",
+    "description": "none",
+    "type": "project",
+    "license": "gpl 3.0",
+    "require": {
+        "smalot/pdfparser": "^1.1",
+        "league/oauth2-client": "^2.6"
+    }
+}
